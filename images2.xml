@@ -6,7 +6,11 @@
 'xpos' :: _x position of all loaded clips (0 is default)
 'ypos' :: _y position of all loaded clips (0 is default)
 -->
+<<<<<<< HEAD
 <gallery timer="10" order="sequential" fadetime="2" looping="yes" xpos="0" ypos="0">
+=======
+<gallery timer="15" order="random" fadetime="2" looping="yes" xpos="0" ypos="0">
+>>>>>>> 66259ca48a139b4debfb7cdeed5906cbaf99b043
 <image path="http://www.okmetalsheet.com/okmetalsheet.com/SG00115.jpg" />
 <image path="http://www.okmetalsheet.com/okmetalsheet.com/SG00116.jpg" />
 <image path="http://www.okmetalsheet.com/okmetalsheet.com/SG00117.jpg" />
